@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19597920-5aaa-407b-a1dc-34fbe75dd79c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Administrare farmacii/POO, Tema 3, Problema 6.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Administrare farmacii/POO, Tema 3, Problema 6.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Administrare farmacii/POO, Tema 3, Problema 6.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Administrare farmacii/bin/Debug/POO, Tema 3, Problema 6.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Administrare farmacii/include/Farmacie.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Administrare farmacii/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Administrare farmacii/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Administrare farmacii/obj/Debug/src/Farmacie.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Administrare farmacii/src/Farmacie.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Operații cu polinoame/13.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Operații cu polinoame/13.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Operații cu polinoame/13.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Operații cu polinoame/bin/Debug/13.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Operații cu polinoame/include/Polinom.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Operații cu polinoame/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Operații cu polinoame/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Operații cu polinoame/obj/Debug/src/Polinom.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Operații cu polinoame/src/Polinom.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Verificare polinom reductibil/POO, Tema 2, Problema 8.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Verificare polinom reductibil/POO, Tema 2, Problema 8.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Verificare polinom reductibil/POO, Tema 2, Problema 8.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Verificare polinom reductibil/POO, Tema 2, Problema 8/POO, Tema 2, Problema 8.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Verificare polinom reductibil/POO, Tema 2, Problema 8/POO, Tema 2, Problema 8.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Verificare polinom reductibil/POO, Tema 2, Problema 8/POO, Tema 2, Problema 8.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Verificare polinom reductibil/POO, Tema 2, Problema 8/include/Polinom.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Verificare polinom reductibil/POO, Tema 2, Problema 8/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Verificare polinom reductibil/POO, Tema 2, Problema 8/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Verificare polinom reductibil/POO, Tema 2, Problema 8/obj/Debug/src/Polinom.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Verificare polinom reductibil/POO, Tema 2, Problema 8/src/Polinom.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Verificare polinom reductibil/bin/Debug/POO, Tema 2, Problema 8.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Verificare polinom reductibil/include/Polinom.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Verificare polinom reductibil/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Verificare polinom reductibil/obj/Debug/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Verificare polinom reductibil/obj/Debug/src/Polinom.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programare Orientata pe Obiecte/Verificare polinom reductibil/src/Polinom.cpp" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eight_puzzle_gui.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Connect 4 - Alpha-Beta/Connect_4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="145" column="48" selection-start-line="145" selection-start-column="45" selection-end-line="145" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Maze - A star/configuratii.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Maze - A star/maze_ai.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1638">
+              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Maze - A star/maze_gui.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-873">
+              <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../X și 0 - Alpha-Beta/X_si_0_alpha_beta.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="310" column="68" selection-start-line="310" selection-start-column="68" selection-end-line="310" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eight_puzzle_ai.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2147">
+              <caret line="47" column="65" selection-start-line="47" selection-start-column="65" selection-end-line="47" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>repr</find>
+      <find>new_cha</find>
+      <find>.g</find>
+      <find>print</find>
+      <find>display_width</find>
+      <find>height</find>
+      <find>black</find>
+      <find>puzzle_lab</find>
+      <find>but</find>
+      <find>human_player</find>
+      <find>index</find>
+      <find>Nod</find>
+      <find>get_</find>
+      <find>nod_graf</find>
+      <find>reprez_scop</find>
+      <find>...</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/8_puzzle_with_buttons.py" />
+        <option value="$PROJECT_DIR$/8-puzzle.py" />
+        <option value="$PROJECT_DIR$/8_puzzle_irina.py" />
+        <option value="$PROJECT_DIR$/debug_8_puzzle.py" />
+        <option value="$PROJECT_DIR$/8_puzzle_lab.py" />
+        <option value="$PROJECT_DIR$/eight_puzzle_ai.py" />
+        <option value="$PROJECT_DIR$/eight_puzzle_gui.py" />
+        <option value="$PROJECT_DIR$/../Connect 4 - Alpha-Beta/Connect_4.py" />
+        <option value="$PROJECT_DIR$/../Maze - A star/maze_ai.py" />
+        <option value="$PROJECT_DIR$/../Maze - A star/maze_gui.py" />
+        <option value="$PROJECT_DIR$/../X și 0 - Alpha-Beta/X_si_0_alpha_beta.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Lab 5/solutie_maze" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PythonWorkspace\8-puzzle" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Connect_4">
+    <configuration name="8_puzzle_irina" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="8-puzzle" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_puzzle_irina.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="8_puzzle_lab" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="8-puzzle" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_puzzle_lab.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Connect_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="8-puzzle" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Connect 4 - Alpha-Beta" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Connect 4 - Alpha-Beta/Connect_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="eight_puzzle_ai" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="8-puzzle" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eight_puzzle_ai.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="eight_puzzle_gui" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="8-puzzle" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eight_puzzle_gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.8_puzzle_lab" />
+      <item itemvalue="Python.8_puzzle_irina" />
+      <item itemvalue="Python.eight_puzzle_gui" />
+      <item itemvalue="Python.eight_puzzle_ai" />
+      <item itemvalue="Python.Connect_4" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Connect_4" />
+        <item itemvalue="Python.eight_puzzle_gui" />
+        <item itemvalue="Python.eight_puzzle_ai" />
+        <item itemvalue="Python.8_puzzle_irina" />
+        <item itemvalue="Python.8_puzzle_lab" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19597920-5aaa-407b-a1dc-34fbe75dd79c" name="Default Changelist" comment="" />
+      <created>1551296610511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551296610511</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16853933" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31444758" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32907802" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.070059486" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.17021276" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/8_puzzle_irina.py</url>
+          <line>196</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/debug_8_puzzle.py</url>
+          <line>212</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/8_puzzle_lab.py</url>
+          <line>212</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>print(pozitii[locatie-1:])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>print(pozitii[locatie:])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>print(pozitii[locatie, :])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>print(graf)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>print(graf.info)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>print(graf.nod_start.info)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>print(graf.nod_graf.info)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>print(list(asd))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>print(list(sir))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/random.py" />
+    <entry file="file://$PROJECT_DIR$/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_puzzle_with_buttons.py" />
+    <entry file="file://$PROJECT_DIR$/8_puzzle_irina.py" />
+    <entry file="file://$PROJECT_DIR$/debug_8_puzzle.py" />
+    <entry file="file://$PROJECT_DIR$/8_puzzle_lab.py" />
+    <entry file="file://$PROJECT_DIR$/../../lab3/lab3/8-puzzle/8_puzzle_lab.py" />
+    <entry file="file://$PROJECT_DIR$/../../../../../8-puzzle/8_puzzle_lab.py" />
+    <entry file="file://$PROJECT_DIR$/8-puzzle.py" />
+    <entry file="file://$USER_HOME$/Downloads/lab3/lab3/8-puzzle/8_puzzle_lab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="91" column="11" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/lab3/lab3/8-puzzle/8-puzzle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="41" column="3" selection-start-line="41" selection-end-line="41" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Lab 5/solutie_maze/maze_ai.py" />
+    <entry file="file://$PROJECT_DIR$/eight_puzzle_ai.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2147">
+          <caret line="47" column="65" selection-start-line="47" selection-start-column="65" selection-end-line="47" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eight_puzzle_gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Connect 4 - Alpha-Beta/Connect_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="145" column="48" selection-start-line="145" selection-start-column="45" selection-end-line="145" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Maze - A star/configuratii.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Maze - A star/maze_ai.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1638">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Maze - A star/maze_gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-873">
+          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../X și 0 - Alpha-Beta/X_si_0_alpha_beta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="310" column="68" selection-start-line="310" selection-start-column="68" selection-end-line="310" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
